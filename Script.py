@@ -11,9 +11,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Cyniteofficial>☢ Cynite ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=http://t.me/diya_jain_here>☢ Diya Jain ☢</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CyniteBackup>Cynite Updates 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/movie_x_link_bot_support>Bot Updates Channel 👾</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
